@@ -1,7 +1,11 @@
 import java.util.Scanner;
-
+//sqaure pattern 
 /**
- * sqr
+ *******
+ *******
+ *******
+ *******
+ 
  */
 public class sqr {
 
