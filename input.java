@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//CREATING A SUB ARRAY FROM GIVEN ARRAY
+
 public class input {
     public static void main(String[] args) {
         int[] a = { 1, 2, 3, 4 };

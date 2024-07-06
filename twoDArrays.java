@@ -13,11 +13,16 @@ public class twoDArrays {
                 numbers[i][j] = sc.nextInt();
             }
         }
+        System.out.println("enter x");
+        int x = sc.nextInt();
+
         for (int i = 0; i < r; i++) {
             for (int j = 0; j < c; j++) {
-                System.out.print(numbers[i][j] + " ");
+                if (numbers[i][j] == x) {
+                    System.out.println("x found at location (" + i + "," + j + ")");
+                }
             }
-            System.out.println();
+
         }
     }
 }

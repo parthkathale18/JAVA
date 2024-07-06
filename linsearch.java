@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//LINEAR SEARCH CODE
+
 public class linsearch {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
